@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # name of this project
-project="name"
-modules="m1 m2"
+project="test_project"
+modules="module_vpc module_ec2"
 files="provider.tf main.tf variables.tf terraform.tfvars"
 
 # -- do not change --
